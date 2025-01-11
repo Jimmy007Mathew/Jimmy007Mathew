@@ -41,12 +41,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/316n6oi4ncndiqswlh2y55djdhti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316n6oi4ncndiqswlh2y55djdhti&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
