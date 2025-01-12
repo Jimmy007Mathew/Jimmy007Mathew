@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Myself Jimmy ,Just a life on the pale blue dot</h2>
+<h2 align="left">Just a life 🧬 on the pale blue dot🌍</h2>
 
 ###
 
