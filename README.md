@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif"  />
+<img align="right" height="230" src="https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif"  />
 
 ###
 
