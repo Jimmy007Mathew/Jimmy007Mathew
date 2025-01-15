@@ -5,7 +5,7 @@
 <img align="right" height="150" src="https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif"  />
 
 ###
-<img align="right" height="150" src="https://webartdevelopers.com/blog/wp-content/uploads/2020/12/breathe-animated-neon-text.gif"  />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
