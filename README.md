@@ -37,7 +37,41 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<div align="center">
+  <a href="https://open.spotify.com/user/316n6oi4ncndiqswlh2y55djdhti">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=316n6oi4ncndiqswlh2y55djdhti&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
+
+<img align="right" height="150" src="https://64.media.tumblr.com/7b38be9dcb68d38c7d537c955f158356/tumblr_obmf3syZUt1utcm9wo1_r1_500.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 ###
 
 <picture>
